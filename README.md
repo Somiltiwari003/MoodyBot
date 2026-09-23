@@ -1,6 +1,6 @@
-# 🤖 MoodBot — AI Chatbot with Different Moods
+# 🤖 MoodyBot — AI Chatbot with Different Moods
 
-**MoodBot** is a Python-based AI chatbot that can interact with users while responding according to different emotional personalities.
+**MooydBot** is a Python-based AI chatbot that can interact with users while responding according to different emotional personalities.
 
 The chatbot allows the user to select a mood before starting the conversation. Depending on the selected mode, the AI changes its response style and personality.
 
